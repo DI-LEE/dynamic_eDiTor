@@ -1,0 +1,2 @@
+src/Deformable-3D-Gaussians/submodules/depth-diff-gaussian-rasterization
+src/Deformable-3D-Gaussians/submodules/simple-knn
