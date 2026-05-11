@@ -52,6 +52,14 @@ Install system dependency:
 sudo apt-get install -y libgl1
 ```
 
+## **Results and Weights**
+
+We provide results and weights for the scenes presented in our paper.
+- **Download**: [Link](https://kuaicv.synology.me/weights/cvpr2026/Dynamic_eDiTor/Dynamic_eDiTor_results.zip)
+
+
+If you want to edit your own dataset, you must first pre-train a 3D Gaussian Splatting (3DGS) model from your custom dataset using COLMAP for camera poses.
+
 ## 📂 Datasets and Pre‑trained Scenes
 
 - **Multi‑view (DyNeRF)**: Download scenes and reconstruct with official 4DGS.
