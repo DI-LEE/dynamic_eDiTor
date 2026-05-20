@@ -57,7 +57,6 @@ sudo apt-get install -y libgl1
 We provide results and weights for the scenes presented in our paper.
 - **Download**: [Link](https://kuaicv.synology.me/weights/cvpr2026/Dynamic_eDiTor/Dynamic_eDiTor_results.zip)
 
-
 ## 📂 Datasets and Pre‑trained Scenes
 
 - **Multi‑view (DyNeRF)**: Download scenes and reconstruct with official 4DGS.
