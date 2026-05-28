@@ -126,11 +126,13 @@ All commands above include a visualization/rendering step. After completion, ins
 If you find this work useful, please cite:
 
 ```bibtex
-@article{lee2025dynamiceditor,
-  title   = {Dynamic-eDiTor: Training-Free Text-Driven 4D Scene Editing with Multimodal Diffusion Transformer},
-  author  = {Lee, Dong In and Doh, Hyungjun and Chi, Seunggeun and Duan, Runlin and Kim, Sangpil and Ramani, Karthik},
-  journal = {arXiv preprint arXiv:2512.00677},
-  year    = {2025}
+@InProceedings{Lee_2026_CVPR,
+    author    = {Lee, Dong In and Doh, Hyungjun and Chi, Seunggeun and Duan, Runlin and Kim, Sangpil and Ramani, Karthik},
+    title     = {Dynamic-eDiTor: Training-Free Text-Driven 4D Scene Editing with Multimodal Diffusion Transformer},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {1187-1197}
 }
 ```
 
